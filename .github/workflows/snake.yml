@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: deepak0deepz
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFC6&color_dots=#0a0a0a,#141414,#1f1f1f,#2ecc71,#00FFC6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFC6&color_dots=#ebedf0, #9be9a8, #40c463, #30a14e, #216e39
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
