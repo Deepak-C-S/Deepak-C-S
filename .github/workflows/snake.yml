@@ -6,24 +6,24 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 IMPORTANT FIX
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: deepak0deepz
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FFC6&color_dots=#0a0a0a,#141414,#1f1f1f,#2ecc71,#00FFC6
 
-      - name: Push to output branch
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
