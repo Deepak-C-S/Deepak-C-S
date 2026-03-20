@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 IMPORTANT FIX
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -13,14 +16,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: deepak0deepz
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
