@@ -147,7 +147,6 @@ I enjoy understanding how systems work internally and continuously improving my 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/deepak_.cs/)
 
 📧 deepakcs2k4@gmail.com  
-📞 +91 8310267353  
 
 </div>
 
