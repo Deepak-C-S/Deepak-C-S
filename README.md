@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-deepak0deepz-181717?style=for-the-badge&logo=github)](https://github.com/deepak0deepz)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepak-C-S-181717?style=for-the-badge&logo=github)](https://github.com/Deepak-C-S)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31859C&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Artist;Creative+%26+Innovative;Frontend+%3A+HTML%2FCSS;Backend+%3A+Python%2FC;MERN+Stack+Developer;AWS+%26+Azure+Cloud" />
 
@@ -104,11 +104,11 @@ I enjoy understanding how systems work internally and continuously improving my 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=deepak0deepz&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Deepak-C-S&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak0deepz&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-C-S&layout=compact&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=deepak0deepz&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Deepak-C-S&theme=tokyonight)
 
 </div>
 
@@ -143,7 +143,7 @@ I enjoy understanding how systems work internally and continuously improving my 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepakcs013)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/deepak0deepz)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Deepak-C-S)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/deepak_.cs/)
 
 📧 deepakcs2k4@gmail.com  
@@ -159,7 +159,7 @@ I enjoy understanding how systems work internally and continuously improving my 
 
 ### 🐍 Contribution Snake
 
-<img src="https://github.com/deepak0deepz/deepak0deepz/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/Deepak-C-S/Deepak-C-S/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
