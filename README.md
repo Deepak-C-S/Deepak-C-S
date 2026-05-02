@@ -157,9 +157,7 @@ I enjoy understanding how systems work internally and continuously improving my 
 ### ⚡ *Artist by passion, Engineer by profession* 🎨
 
 
-### 🐍 Contribution Snake
 
-<img src="https://github.com/Deepak-C-S/Deepak-C-S/blob/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
