@@ -137,7 +137,7 @@ A farm-to-consumer marketplace designed to improve agricultural accessibility an
 ### 02 — AI Image Monitoring System
 **Making Visual Data Actionable**
 
-`Python` `YOLO` `OpenCV`
+`Python`  `OpenCV`
 
 A computer vision application designed to analyze visual inputs, identify objects, and automatically notify users when configured events are detected.
 
@@ -241,7 +241,7 @@ Worked on an AI-based image monitoring solution using computer vision techniques
 
 **City Engineering College, Bengaluru**
 
-`2026` · `CGPA: 7.92`
+`2026` · `CGPA: 8.13`
 
 My academic journey has helped me build a foundation in software engineering, machine learning, databases, and analytical problem-solving.
 
